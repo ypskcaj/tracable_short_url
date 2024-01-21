@@ -1,0 +1,5 @@
+time,clientAddress,label,session,user_agent.browser.family,user_agent.browser.version_string,user_agent.os.family,user_agent.os.version_string,user_agent.device.family,user_agent.device.brand,user_agent.device.model,shortURLCode,longURL
+2024-01-14 22:05:54 中部标准时间,127.0.0.1,,,Chrome,120.0.0,Windows,10,Other,,,3VzvtZ,https://www.bilibili.com/
+2024-01-14 22:07:49 中部标准时间,127.0.0.1,,0ad4dae7-486e-4feb-a5b3-cd06a312b995,Chrome,120.0.0,Windows,10,Other,,,RFUUE,www.bing.com
+2024-01-14 22:08:34 中部标准时间,127.0.0.1,,0ad4dae7-486e-4feb-a5b3-cd06a312b995,Chrome,120.0.0,Windows,10,Other,,,3INBeV,www.google.com
+2024-01-14 22:14:13 中部标准时间,127.0.0.1,,0ad4dae7-486e-4feb-a5b3-cd06a312b995,Chrome,120.0.0,Windows,10,Other,,,2LKcb6,https://www.google.com
